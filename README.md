@@ -10,6 +10,7 @@ This Power BI dashboard provides insights into Blinkit's total sales, customer p
 - Which item categories contribute the most to total sales, and how does fat content affect sales?
 - What are the average sales and customer ratings for different outlet types and locations?
  ## Dashboard
+ - <a href = "https://github.com/srinjay98/Blinkit-Data-Analysis-----PowerBI-Dashboard/blob/main/Dashboard.pdf"> Dashboard </a>
  
 
 
